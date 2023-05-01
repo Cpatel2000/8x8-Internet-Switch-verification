@@ -1,0 +1,100 @@
+global coverage_group 0 environment_tb_mod::environment_cov::cg_trans __coverage_environment_cov.cg_trans unused_environment_cov_cg_trans_loop_label environment_tb_mod 0 1 0 0 0  ( 0 
+)
+ 1 1
+ 87 /DCNFS/users/student/cpatel/Desktop/SOC_FINAL/environment/run/../src/environment_cov.sv
+ 14 0 0 0 1 0 0 0 0  1
+0
+26 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0 0
+ 0
+ 0 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+0
+0
+0
+64
+0
+ 0
+
+3
+0
+1
+0
+ 7 tr.kind 15 0 0 0 0 0 63 environment_cov::environment_tb_mod_environment_cov_cg_trans_fn 63 environment_cov::environment_tb_mod_environment_cov_cg_trans_fn 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 0 7 32 1 27 environment_tb_mod::kinds_e 1 1 0 1 0 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 3 src 17 0 0 0 0 0 65 environment_cov::environment_tb_mod_environment_cov_cg_trans_fn_0 65 environment_cov::environment_tb_mod_environment_cov_cg_trans_fn_0 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 0 2 3 0 0 1 0 1 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 3 dst 18 0 0 0 0 0 65 environment_cov::environment_tb_mod_environment_cov_cg_trans_fn_1 65 environment_cov::environment_tb_mod_environment_cov_cg_trans_fn_1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 0 2 3 0 0 1 0 1 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 11 cg_trans_cc 0 19 0 0 0 0 2 1 2 -1 0 0 0
+ 0
+ 0
+ 0
+ 0 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+end_coverage_group

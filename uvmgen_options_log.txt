@@ -1,0 +1,25 @@
+UVM Version : 2 
+Complete Env.(1) OR Individual Template(2)? : 1 
+Want to create your own methods[Instead of uvm shorthand macros]? : n 
+RAL env? : 0 
+Env. Name : environment 
+Agents? : y 
+Name of master agent:  : ethernet 
+Name of sequencer in ethernet master agent:  : eth_sequencer 
+Name of driver in ethernet master agent:  : eth_driver 
+Name of monitor in ethernet master agent:  : eth_monitor 
+Name of interface related to ethernet master agent:  : eth_intf 
+Name of transaction in ethernet master agent:  : eth_data 
+BU class for this transaction? : n 
+Name of slave agent:  : slave 
+Name of sequencer in slave slave agent:  : slave_sequencer 
+Name of driver in slave slave agent:  : slave_driver 
+Name of monitor in slave slave agent:  : slave_monitor 
+Name of physical interface related to slave slave agent:  : slave_intf 
+Name of transaction related to slave slave agent:  : eth_data 
+Driver information for the slave agent slave :  :  
+Driver Type : Driver, PULL DRIVER (uvm_driver) 
+Driver information for the master agent ethernet :  :  
+Driver Type : Driver, PULL DRIVER (uvm_driver) 
+Scoreboard? : y 
+Name of Scoreboard Class : scoreboard 

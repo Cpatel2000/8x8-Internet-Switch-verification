@@ -1,0 +1,3 @@
+
+`include "ethernet_eth_intf.sv" 
+`include "slave_slave_intf.sv"

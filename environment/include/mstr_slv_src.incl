@@ -1,0 +1,12 @@
+
+`include "ethernet_eth_monitor.sv" 
+`include "ethernet_sequence_library.sv" 
+`include "ethernet_eth_sequencer.sv" 
+`include "ethernet_eth_data.sv" 
+`include "ethernet_eth_driver.sv" 
+`include "ethernet.sv" 
+`include "slave_slave_sequencer.sv"
+`include "slave_eth_data.sv"
+`include "slave_slave_monitor.sv"
+`include "slave_slave_driver.sv"
+`include "slave.sv"

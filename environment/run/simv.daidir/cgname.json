@@ -1,0 +1,116 @@
+{
+    "_vcs_DPI_package": [
+        "_vcs_DPI_package",
+        "uM9F1",
+        "module",
+        1
+    ],
+    "vcs_paramclassrepository": [
+        "vcs_paramclassrepository",
+        "hEeZs",
+        "module",
+        2
+    ],
+    "_vcs_unit__3511942519": [
+        "_vcs_unit__3511942519",
+        "sNLtW",
+        "module",
+        3
+    ],
+    "std": [
+        "std",
+        "reYIK",
+        "module",
+        4
+    ],
+    "uvm_pkg": [
+        "uvm_pkg",
+        "zr7M1",
+        "module",
+        5
+    ],
+    "_vcs_msglog": [
+        "_vcs_msglog",
+        "zQBzV",
+        "module",
+        6
+    ],
+    "uvm_custom_install_recording": [
+        "uvm_custom_install_recording",
+        "nhiwz",
+        "module",
+        7
+    ],
+    "uvm_custom_install_verdi_recording": [
+        "uvm_custom_install_verdi_recording",
+        "EbjT3",
+        "module",
+        8
+    ],
+    "router_0000": [
+        "router_0000",
+        "Zy6Jc",
+        "module",
+        9
+    ],
+    "portin": [
+        "portin",
+        "JyWAw",
+        "module",
+        10
+    ],
+    "portout": [
+        "portout",
+        "z6S9k",
+        "module",
+        11
+    ],
+    "switch_fabric": [
+        "switch_fabric",
+        "TEpY3",
+        "module",
+        12
+    ],
+    "eth_intf": [
+        "eth_intf",
+        "nIhcs",
+        "module",
+        13
+    ],
+    "slave_intf": [
+        "slave_intf",
+        "qxJtd",
+        "module",
+        14
+    ],
+    "environment_tb_mod": [
+        "environment_tb_mod",
+        "Gvq2f",
+        "module",
+        15
+    ],
+    "environment_top": [
+        "environment_top",
+        "LDmLU",
+        "module",
+        16
+    ],
+    "DW_arb_rr": [
+        "DW_arb_rr",
+        "T3t6z",
+        "module",
+        17
+    ],
+    "DW_fifo_s1_df": [
+        "DW_fifo_s1_df",
+        "TMz2B",
+        "module",
+        18
+    ],
+    "...MASTER...": [
+        "SIM",
+        "amcQw",
+        "module",
+        19
+    ]
+}

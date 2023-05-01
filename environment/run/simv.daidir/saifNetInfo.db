@@ -1,0 +1,13 @@
+4
+DW_fifo_s1_df
+ram_rd_addr
+All
+DW_fifo_s1_df
+ram_rst_n
+Scal
+DW_fifo_s1_df
+ram_we_n
+Scal
+DW_fifo_s1_df
+ram_wr_addr
+All
